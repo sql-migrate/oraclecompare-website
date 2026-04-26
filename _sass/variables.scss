@@ -1,0 +1,23 @@
+// Calm slate-blue palette
+$primary: #2D6A9F;
+$primary-light: #4A8EC2;
+$primary-dark: #1E4F7A;
+$accent: #F59E0B;
+$accent-light: #FCD34D;
+$text: #1F2937;
+$text-light: #6B7280;
+$background: #FAFAFA;
+$surface: #FFFFFF;
+$border: #E5E7EB;
+$success: #10B981;
+$shadow: rgba(45, 106, 159, 0.15);
+
+// Aliases for compatibility
+$brand-color: $primary;
+$secondary-brand-color: $primary-light;
+$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+
+// Breakpoints
+$tablet: "(min-width: 450px)";
+$mid-point: "(min-width: 620px)";
+$desktop: "(min-width: 768px)";
