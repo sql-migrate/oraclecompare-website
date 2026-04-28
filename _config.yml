@@ -8,7 +8,7 @@ url: "https://www.schemadriftfororacle.com"
 description: "Oracle schema comparison tool. Find every difference, generate deployment scripts, and track schema changes. Runs 100% locally."
 author:
   name: SchemaDrift
-  email: neil@postgrescompare.com
+  email: neil@schemadriftfororacle.com
 
 # -----
 # Build

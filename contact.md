@@ -7,4 +7,4 @@ description: Get in touch with the SchemaDrift team.
 
 Have a question about SchemaDrift for Oracle, or want to share feedback on what features matter most to you?
 
-Email us at [neil@postgrescompare.com](mailto:neil@postgrescompare.com) — we'd love to hear from you.
+Email us at [neil@schemadriftfororacle.com](mailto:neil@schemadriftfororacle.com) — we'd love to hear from you.
